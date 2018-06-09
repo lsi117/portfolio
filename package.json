@@ -9,6 +9,7 @@
   "author": "lauren i",
   "license": "ISC",
   "dependencies": {
+    "nodemon": "^1.17.5",
     "vue": "^2.5.16"
   }
 }
