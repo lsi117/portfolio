@@ -11,6 +11,9 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "bootstrap": "^4.1.1",
+    "devicons": "^1.8.0",
+    "font-awesome": "^4.7.0",
     "nodemon": "^1.17.5",
     "vue": "^2.5.2"
   },
